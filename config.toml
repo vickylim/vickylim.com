@@ -89,7 +89,7 @@ weight = 4
     link = "https://www.linkedin.com/in/vicky-lim/"
   [[params.social]]
     name = "youtube"
-    link = "https://www.youtube.com/channel/UC_pF4VAldnsk7_bIKwFsUqA/featured"
+    link = "https://www.youtube.com/channel/UChA8MUtLhQrm5b2uI21PJJg"
   [[params.social]]
     name = "twitter"
     link = "https://twitter.com/vickycalendar"  # no need for "mailto:" in the head
