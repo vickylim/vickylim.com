@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/vickylim/Documents/GitHub/vickylim.com/quickstart",
+	"sourceRoot": "C:/Users/vickylim/Documents/GitHub/vickylim.com",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
