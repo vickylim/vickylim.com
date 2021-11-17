@@ -2,17 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vickylim.com/posts/introduction/</loc>
-    <lastmod>2021-11-08T22:24:30-06:00</lastmod>
-  </url><url>
-    <loc>https://vickylim.com/posts/</loc>
-    <lastmod>2021-11-08T22:24:30-06:00</lastmod>
-  </url><url>
-    <loc>https://vickylim.com/</loc>
-    <lastmod>2021-11-08T22:24:30-06:00</lastmod>
+    <loc>https://vickylim.com/about/</loc>
+    <lastmod>2021-11-16T21:06:15+00:00</lastmod>
   </url><url>
     <loc>https://vickylim.com/categories/</loc>
   </url><url>
     <loc>https://vickylim.com/tags/</loc>
+  </url><url>
+    <loc>https://vickylim.com/</loc>
   </url>
 </urlset>
