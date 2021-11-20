@@ -8,4 +8,6 @@ Are you – Nobody – too?
 
 My name is Vicky Lim. Sometimes I go by Vicky Idk. 
 
-I was born a Virgo in 1987 in Chicago, Illinois. I will continue to update this bio from time to time and hopefully, if I randomly die, these will be my "last words", if that makes sense. I have always wanted my own website and hope to write for myself first here. Please sign up for my [mailing list](http://eepurl.com/hK8Ri9) here, in case you are interested in the event that I would like to send something :slightly_smiling_face:
+I was born a Virgo in 1987 in Chicago, Illinois. That is all for now, but I will continue to update this bio from time to time. 
+
+I have always wanted my own website and I am hoping to write for myself here. Please sign up for my [mailing list](http://eepurl.com/hK8Ri9), in the unlikelihood that I will send something by email :slightly_smiling_face:
