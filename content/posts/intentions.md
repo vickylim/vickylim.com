@@ -2,6 +2,8 @@
 title: "Intentions"
 date: 2021-12-03T14:36:56-06:00
 draft: false
+tags:
+    - on-writing
 ---
 
 ### Intentions

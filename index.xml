@@ -6,14 +6,27 @@
     <description>Recent content on Vicky Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Vicky Lim</copyright><atom:link href="https://vickylim.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Vicky Lim</copyright>
+    <lastBuildDate>Fri, 03 Dec 2021 14:36:56 -0600</lastBuildDate><atom:link href="https://vickylim.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>Intentions</title>
+      <link>https://vickylim.com/posts/intentions/</link>
+      <pubDate>Fri, 03 Dec 2021 14:36:56 -0600</pubDate>
+      
+      <guid>https://vickylim.com/posts/intentions/</guid>
+      <description>Intentions There is no blank page, Céline Sciamma wrote on the trading card I made of her. I held this mantra since February, 2020, the month before the start of the pandemic, and I still kept struggling to write.
+To diminish my dread, I find it helpful to begin with either an epigraph or a few notes on what I aim to accomplish, so here is what I aim for this blog.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>https://vickylim.com/about/</link>
       <pubDate>Tue, 16 Nov 2021 21:06:15 +0000</pubDate>
       
       <guid>https://vickylim.com/about/</guid>
-      <description>Github: vickylim</description>
+      <description>I&amp;rsquo;m Nobody! Who are you? Are you – Nobody – too?
+ My name is Vicky Lim. I was born a Virgo in 1987 in Chicago, Illinois.
+I am an aspiring: reader, writer, librarian, tennis player, translator, tutor~teacher, and low-key YouTuber. I used to be introduced as a zinester between 2010-2017 while I was still releasing issues of Dear Jaguar and Abstract Door. I will always be, at heart, a Teen Girl on LiveJournal.</description>
     </item>
     
   </channel>
