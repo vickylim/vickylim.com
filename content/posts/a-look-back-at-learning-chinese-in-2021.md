@@ -16,7 +16,7 @@ There is a lot more for me to reflect upon with this process, since it involved 
 
 I am learning through comprehensible input, so I am following what has been popularized by Stephen Krashen and his second language acquisition theory. I am also referencing these two related resources frequently:
 - [Refold: The Roadmap to True Fluency](https://refold.la)
-- [Heavenly Path to Chinese Webnovels](https://docs.google.com/document/d/e/2PACX-1vSjVsapt4NOZx0KuDwgBUfQggTyT15hdgUjHHdqZRnV8LTnzQ5lY-fKjJhV0cb7I06q3x_syq1DyE4H/pub). 
+- [Heavenly Path to Chinese Webnovels](https://docs.google.com/document/d/e/2PACX-1vSjVsapt4NOZx0KuDwgBUfQggTyT15hdgUjHHdqZRnV8LTnzQ5lY-fKjJhV0cb7I06q3x_syq1DyE4H/pub)
 <br>
 
 **Time**
