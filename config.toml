@@ -29,7 +29,8 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
-
+[permalinks]
+  posts = '/:year/:month/:day/:title/'
 
 [markup]
   [markup.tableOfContents]
