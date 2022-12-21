@@ -80,8 +80,9 @@ weight = 4
       theme = "github-light"
     [params.comments.cactuscomments]
       siteName = "vickylim" # see https://cactus.chat/ on how to register your site name
-      #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
-      #serverName = "" # Defaults to cactus.chat
+      serverUrl = "https://matrix.cactus.chat:8448" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+      serverName = "cactus.chat" # Defaults to cactus.chat
+
 
   # the value of name should be a valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
