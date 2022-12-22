@@ -86,12 +86,12 @@ weight = 4
 
   # the value of name should be a valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
-  [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/in/vicky-lim/"
-  [[params.social]]
-    name = "youtube"
-    link = "https://www.youtube.com/channel/UChA8MUtLhQrm5b2uI21PJJg"
-  [[params.social]]
-    name = "twitter"
-    link = "https://twitter.com/vickycalendar"  # no need for "mailto:" in the head
+  #[[params.social]]
+    #name = "linkedin"
+    #link = "https://www.linkedin.com/in/vicky-lim/"
+  #[[params.social]]
+    #name = "youtube"
+    #link = "https://www.youtube.com/channel/UChA8MUtLhQrm5b2uI21PJJg"
+  #[[params.social]]
+    #name = "twitter"
+    #link = "https://twitter.com/vickycalendar"  # no need for "mailto:" in the head
