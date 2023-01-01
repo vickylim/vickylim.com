@@ -56,7 +56,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "I am here to write once a year, it looks like."
+  description = "A personal blog to record what I am learning and what I have learned."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -86,12 +86,12 @@ weight = 4
 
   # the value of name should be a valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
-  #[[params.social]]
-    #name = "linkedin"
-    #link = "https://www.linkedin.com/in/vicky-lim/"
-  #[[params.social]]
-    #name = "youtube"
-    #link = "https://www.youtube.com/channel/UChA8MUtLhQrm5b2uI21PJJg"
+  [[params.social]]
+    name = "goodreads"
+    link = "https://www.goodreads.com/vickylim"
+  [[params.social]]
+    name = "lastfm-square"
+    link = "https://www.last.fm/user/pianomaps"
   #[[params.social]]
     #name = "twitter"
     #link = "https://twitter.com/vickycalendar"  # no need for "mailto:" in the head
