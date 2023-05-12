@@ -3,7 +3,15 @@ languageCode = "en-us"
 title = "Vicky Lim"
 theme = "cactus"
 copyright = "Vicky Lim" # cactus will use title if copyright is not set
-googleAnalytics = "G-G3MQJWSM84"
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G3MQJWSM84"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G3MQJWSM84');
+</script>
 
 
 # summaryLength = 2
