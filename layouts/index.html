@@ -4,7 +4,7 @@
     {{ .Site.Params.description | $.Page.RenderString }}
   {{ end }}
   {{ if isset .Site.Params "social" }}
-      <p>Find me on
+    <p>Find me on
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}
@@ -109,3 +109,13 @@
   </section>
   {{ end }}
 {{ end }}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G3MQJWSM84"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G3MQJWSM84');
+</script>
