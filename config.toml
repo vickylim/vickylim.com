@@ -6,9 +6,6 @@ copyright = "Vicky Lim" # cactus will use title if copyright is not set
 googleAnalytics = "UA-129783867-2"
 enableRobotsTXT = true
 canonifyURLS = true
-[permalinks]
-  blog = '/posts/:year/:month/:day/:title/'
-
 
 
 # summaryLength = 2
