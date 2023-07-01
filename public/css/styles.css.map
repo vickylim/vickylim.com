@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/vickylim/Documents/GitHub/vickylim.com",
+	"sourceRoot": "D:/vicky/Documents/GitHub/vickylim.com",
 	"sources": [
 		"assets/scss/style.scss",
 		"assets/scss/_variables.scss",
