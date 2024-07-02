@@ -1,70 +1,50 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-  </style>
+  <link rel="preload" href="{{ "lib/font-awesome/webfonts/fa-brands-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="{{ "lib/font-awesome/webfonts/fa-regular-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="{{ "lib/font-awesome/webfonts/fa-solid-900.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="{{ "lib/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
+  <script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+  <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ if .IsPage }} {{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <link rel = 'canonical' href = '{{ .Permalink }}'>
+  {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ .Scratch.Set "colortheme" "white"}}
+  {{ if .Site.Params.Colortheme }}
+    {{ .Scratch.Set "colortheme" .Site.Params.Colortheme }}
+  {{ end }}
+  {{ $colortheme := .Scratch.Get "colortheme" }}
+
+  {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
+  {{- $styles := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "scss/style.scss" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}"> 
+
+  <!-- Custom CSS -->
+  {{ range .Site.Params.css }} <link rel="stylesheet" href="{{ . | absURL }}"> {{ end }}
+  {{ `
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  ` | safeHTML }}
+
+  {{ partial "favicon.html" . }}
+  {{ if .Site.Params.rss }}
+  {{ with .OutputFormats.Get "RSS" }}
+    {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+  {{ end }}
+  {{ end }}
+  {{ if .Site.GoogleAnalytics }}
+  {{ if .Site.Params.googleAnalyticsAsync }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ else }}
+    {{ template "_internal/google_analytics.html" . }}
+  {{ end }}
+  {{ end }}
 </head>
-<body>
-<p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
-<p class="p1"><span class="s1">&lt;html lang="en"&gt;</span></p>
-<p class="p1"><span class="s1">&lt;head&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;meta charset="UTF-8"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Meta tags and other head elements --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ with .Site.Params.description }}{{ end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ template "_internal/opengraph.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ template "_internal/twitter_cards.html" . }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Set color theme --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ .Scratch.Set "colortheme" "white" }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ if .Site.Params.Colortheme }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ .Scratch.Set "colortheme" .Site.Params.Colortheme }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ $colortheme := .Scratch.Get "colortheme" }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Load custom CSS --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ $styles := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "scss/style.scss" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ range .Site.Params.css }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;link rel="stylesheet" href="{{ . | absURL }}"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Custom favicon --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ partial "favicon.html" . }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- RSS feed --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ if .Site.Params.rss }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ with .OutputFormats.Get "RSS" }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ printf `` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Google Analytics --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ if .Site.GoogleAnalytics }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ if .Site.Params.googleAnalyticsAsync }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ template "_internal/google_analytics_async.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ else }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ template "_internal/google_analytics.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{ end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Font Awesome Kit --&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;script src="https://kit.fontawesome.com/6564d44cf0.js" crossorigin="anonymous"&gt;&lt;/script&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Other head elements --&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
-<p class="p1"><span class="s1">&lt;body&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;!-- Your site content --&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/body&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/html&gt;</span></p>
-</body>
-</html>
