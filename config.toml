@@ -1,4 +1,5 @@
 baseURL = "https://vickylim.com"
+publishDir = "public"
 languageCode = "en-us"
 title = "Vicky Lim"
 theme = "cactus"
