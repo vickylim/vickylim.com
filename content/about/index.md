@@ -8,4 +8,4 @@ Are you – Nobody – too?
 
 My name is Vicky Lim. I was born a Virgo in 1987 in Chicago, Illinois.
 
-I used to be introduced as a zinester between 2010-2017 while I was still releasing issues of _Dear Jaguar_ and [_Abstract Door_](https://vickylim.com/abstract-door-zine). I will always be, at heart, a Teen Girl on LiveJournal.
+I used to be introduced as a zinester between 2010-2017 while I was still releasing issues of _Dear Jaguar_ and [_Abstract Door_](https://vickylim.com/abstract-door-zine). I will always be, at heart, a Teen Girl on LiveJournal <3
