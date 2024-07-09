@@ -33,9 +33,9 @@ jobs:
           echo "Generating site"
           hugo
 
-      - name: Update main branch
+      - name: Update master branch
         run: |
-          echo "Updating main branch"
+          echo "Updating master branch"
           cd public
           git init
 
@@ -44,6 +44,6 @@ jobs:
           git config --global user.name "${{ secrets.GITHUB_USERNAME }}"
 
           git add --all .
-          git commit -m "Publishing to main (deploy.yaml)"
+          git commit -m "Publishing to master (deploy.yaml)"
           echo "Pushing to GitHub"
-          git push --quiet --force https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ secrets.GITHUB_USERNAME }}/${{ secrets.GITHUB_REPOSITORY }}.git main
+          git push --quiet --force https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ secrets.GITHUB_USERNAME }}/${{ secrets.GITHUB_REPOSITORY }}.git master
