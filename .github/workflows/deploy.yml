@@ -1,0 +1,44 @@
+name: Deploy Hugo Website
+
+on:
+  push:
+    branches:
+      - main  # Adjust to your main branch name
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Delete old publication
+        run: |
+          echo "Deleting old publication"
+          rm -rf public
+
+      - name: Generate site with Hugo
+        run: |
+          echo "Generating site"
+          hugo
+
+      - name: Update master branch
+        run: |
+          echo "Updating master branch"
+          cd public
+          git init
+
+          git config --global push.default matching
+          git config --global user.email "${{ secrets.GITHUB_EMAIL }}"
+          git config --global user.name "${{ secrets.GITHUB_USERNAME }}"
+
+          git add --all .
+          git commit -m "Publishing to master (deploy.yaml)"
+          echo "Pushing to GitHub"
+          git push --quiet --force https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ secrets.GITHUB_USERNAME }}/${{ secrets.GITHUB_REPOSITORY }}.git master
