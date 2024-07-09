@@ -13,10 +13,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'  # Specify Node.js version 20
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: 'latest'  # Ensure this aligns with the latest version supported
 
       - name: Delete old publication
         run: |
@@ -28,9 +33,9 @@ jobs:
           echo "Generating site"
           hugo
 
-      - name: Update master branch
+      - name: Update main branch
         run: |
-          echo "Updating master branch"
+          echo "Updating main branch"
           cd public
           git init
 
@@ -39,6 +44,6 @@ jobs:
           git config --global user.name "${{ secrets.GITHUB_USERNAME }}"
 
           git add --all .
-          git commit -m "Publishing to master (deploy.yaml)"
+          git commit -m "Publishing to main (deploy.yaml)"
           echo "Pushing to GitHub"
-          git push --quiet --force https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ secrets.GITHUB_USERNAME }}/${{ secrets.GITHUB_REPOSITORY }}.git master
+          git push --quiet --force https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ secrets.GITHUB_USERNAME }}/${{ secrets.GITHUB_REPOSITORY }}.git main
