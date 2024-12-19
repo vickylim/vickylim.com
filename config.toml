@@ -1,5 +1,5 @@
 baseURL = "https://vickylim.com"
-publishDir = "docs"
+publishDir = "public"
 languageCode = "en-us"
 title = "Vicky Lim"
 theme = "cactus"
