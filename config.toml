@@ -87,14 +87,14 @@ weight = 4
       serverName = "cactus.chat" # Defaults to cactus.chat
 
 
-fontAwesomePath = "static/lib/fontawesome/css/all.min.css"
+fontAwesomePath = "/lib/fontawesome/css/all.min.css"
   # the value of name should be a valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "goodreads"
     link = "https://www.goodreads.com/vickylim"
   [[params.social]]
-    name = "letterboxd"
+    name = "delicious"
     link = "https://letterboxd.com/subtexts/"
   [[params.social]]
     name = "lastfm-square"
