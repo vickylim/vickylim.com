@@ -35,17 +35,18 @@ Then, this afternoon, I learned how to boulder at First Ascent in Humboldt Park 
 - ✅ Memorize a poem and attend Other People's Poems [this was so warm/encouraging/cool/beautiful]
 - Open up the guitar case, humidify my poor guitar, tune it, and run through at least one warmup routine
 - Look through Sohla El-Waylly's *Start Here: Instructions for Becoming a Better Cook* and try to cook a single recipe
-- ✅ Find a time to catch up with Patricia
-- ✅ Watch a tbd movie [**Challengers**] with Alex at my place
+- ✅ Find a time to catch up with Patricia [➕ Korean bbq with Lemis, ➕ going to a boxing class]
+- ✅ Watch a tbd movie [*Challengers*] with Alex at my place
 - ✅ See *School of the Holy Beast* (1974) at Facets [with McKenney]
 - ✅ Attend [Silent Book Club in Lakeview](https://www.meetup.com/chicago-silent-book-club-lakeview/), at which I will try to continue reading ch. 1-8 of *Wuthering Heights* so that I can participate in the next discussion [great, will go back]
 - ✅ Meet up with late 30s/early 40s women from Chicago Girls Who Walk for board game night at Athena's [this was lovely!]
 - ⛔️ Show up to the Snail Mail Sundays meetup so that I can finally reply to letters and write cards that are way overdue to my friends, maybe send a few holiday cards [this is postponed to Jan]
 - Don't forget to do chores and tidy up the home, esp. installing a new toilet paper holder! C'mon
-- Host Melody for a night on Christmas Eve
+- ⛔️ Host Melody for a night on Christmas Eve
 - Spend a day with my parents and brother to "celebrate" Christmas
 - Catch a couple films back-to-back at the Siskel (*L'été dernier* + *La Bête*)
 - Finalize this "Solitaire" draft I've been trying to write since last year
 - Write a reflection of 2024 and post it on my blog here
-- Celebrate New Year's Eve with friends (received 2 invites, and I want to go to both! so I haven't replied to either yet)
+- Celebrate New Year's Eve with friends (Anna and Jim and then myself at home by midnight)
 - Outline plans for 2025
+- ➕ Join Audrey and others at the bonfire at Somme Woods
