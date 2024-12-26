@@ -1,5 +1,5 @@
 ---
-tags: [self-portraits]
+tags: [home]
 title: 'Feeling more at home'
 created: '2024-07-11T17:50:19.051Z'
 modified: '2024-08-23T22:28:03.060Z'
