@@ -17,11 +17,10 @@ You can write to me at vickysagittariussquare@gmail.com 💌
 
 ## Topics
 - [a-day-in-the-life](https://vickylim.com/tags/a-day-in-the-life/) : me just writing about my day
--  [home](https://vickylim.com/tags/home) : me trying to be more handy AND a homebody
+-  [at-home](https://vickylim.com/tags/at-home) : me trying to be more handy AND a homebody
 -  [training-log](https://vickylim.com/tags/training-log/) : me reflecting on my strength training progress at the end of each quarter
--  [writing](https://vickylim.com/tags/writing/) : me trying to write and writing about how I can or can't
--  [year-in-review](https://vickylim.com/tags/year-in-review/) : me reflecting on the year at the end of December
--  [中文](https://vickylim.com/tags/中文/) : me trying to learn Mandarin Chinese
+-  [on-writing](https://vickylim.com/tags/on-writing/) : me trying to write and writing about how I can or can't
+-  [on-中文](https://vickylim.com/tags/on-中文/) : me trying to learn Mandarin Chinese
 
 ## P.S.
 
