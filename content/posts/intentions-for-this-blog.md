@@ -1,5 +1,5 @@
 ---
-title: "Intentions"
+title: "Intentions for this blog"
 date: 2021-12-03T14:36:56-06:00
 draft: false
 tags: [intentions]
