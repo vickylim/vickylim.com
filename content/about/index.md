@@ -18,8 +18,8 @@ You can write to me at vickysagittariussquare@gmail.com 💌
 ## Topics
 - [a-day-in-the-life](https://vickylim.com/tags/a-day-in-the-life/) : me just writing about my day
 -  [at-home](https://vickylim.com/tags/at-home) : me trying to be more handy AND a homebody
--  [on-writing](https://vickylim.com/tags/on-writing/) : me trying to write and writing about how I can or can't
--  [on-中文](https://vickylim.com/tags/on-中文/) : me trying to learn Mandarin Chinese
+-  [intentions](https://vickylim.com/tags/intentions/) : I have so many goals, checklists, notes-to-self
+-  [languages](https://vickylim.com/tags/languages/) : me trying to learn languages, mainly français and 中文
 -  [training-log](https://vickylim.com/tags/training-log/) : me reflecting on my strength training progress at the end of each quarter
 
 ## P.S.

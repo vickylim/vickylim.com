@@ -2,7 +2,7 @@
 title: "Learning Chinese in 2021"
 date: 2021-12-31T22:00:25-06:00
 draft: false
-tags: [on-中文]
+tags: [languages]
 ---
 Out of nowhere on Valentine's Day this year, after one of my regular conversation practice sessions with my French tutor, I began searching online for Mandarin resources. In hindsight, I was probably looking for a distraction out of my intermediate plateau with French, where I am still struggling to stretch from B1 to B2. One click led to another until I decided to order [_Assimil: Le chinois_](https://www.assimil.com/en/with-ease/1427-le-chinois-9782700571066.html), sealing my commitment that it will be the next language I learn.
 

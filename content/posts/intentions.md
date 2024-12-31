@@ -2,8 +2,7 @@
 title: "Intentions"
 date: 2021-12-03T14:36:56-06:00
 draft: false
-tags:
-    - on-writing
+tags: [intentions]
 ---
 There is no blank page, Céline Sciamma wrote on the trading card I made of her. I held this mantra since February, 2020, the month before the start of the pandemic, and I still kept struggling to write.
 
