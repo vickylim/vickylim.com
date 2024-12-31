@@ -11,7 +11,7 @@ My name is Vicky Lim. I was born a Virgo in 1987 in Chicago, Illinois.
 ![Image](https://d2w9rnfcy7mm78.cloudfront.net/33193119/original_23b5c5dcbbe96563a3fa4ef0ab4205d4.jpg?1735065657?bc=0)
 *Me and Raindrop, 9/2/2024*
 
-I spent my teen years writing on LiveJournal and my twenties writing [_Abstract Door_](https://vickylim.com/abstract-door-zine) and [_Personal Statements_](https://vickyalways.blogspot.com/). Now I'm near the end of my thirties and I'm trying to remember how to post things on the internet without wishing to delete it all right after.
+I spent my teen years writing on LiveJournal and my twenties writing [_Abstract Door_](https://vickylim.com/abstract-door-zine) and [_Personal Statements_](https://vickyalways.blogspot.com/). Now I'm near the end of my thirties and I'm trying to remember how to post things on the internet without cringing and dreading. It's going ok so far.
 
 You can write to me at vicky.txt@gmail.com 💌
 
