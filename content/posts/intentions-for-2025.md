@@ -4,7 +4,7 @@ date: 2025-01-01T12:55:22-06:00
 draft: false
 tags: [intentions]
 ---
-1. **Prioritize connecting with other people.** Meet new people (attend numerous meetups), maintain existing friendships (be responsive to messages, send mail, suggest plans, welcome everyone into my home), and always make the trek, no matter the distance or weather or mood, esp. if I committed in advance. Take a nap beforehand if I need it. MAYBE engage more on Instagram, but Idk about that one (probably not).
+1. **Prioritize connecting with other people.** Meet new people (attend numerous meetups, community events), maintain existing friendships (be responsive to messages, send mail, suggest plans, welcome everyone into my home), and always make the trek, no matter the distance or weather or mood, esp. if I committed in advance.
  
 
 2. **Express more encouragement** by recognizing positive efforts made by friends and colleagues, as opposed to noticing immediately what could be fixed or reacting with judgments. Think about how I felt walking out of Other People's Poems in Dec '24. I want people to feel emotionally safe with me.
