@@ -31,4 +31,4 @@ tags: [intentions]
 9. **Take initiative to plan my own birthday with friends for the first time.** This is deeply uncomfortable for me because I've always been private and solitary about this day and feel anxious to be responsible for a group of people I know gathering together, but it circles back to my #1 intention of the year, doesn't it.
 
 
-10. **It's ok if I don't do any of this.** Many of these are the same things I've been trying to do for years, and I know I get closer to practicing each one the way I would like, each year. So, cheers, and happy new year 🎉
+10. **Accept that it's ok if I don't do any of this.** Many of these are the same things I've been trying to do for years, and I know I get closer to practicing each one the way I would like, each year. So, cheers, and happy new year 🎉
