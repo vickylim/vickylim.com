@@ -5,7 +5,7 @@ draft: false
 tags: [music]
 ---
 
-_Written as a note-to-self on how I had fallen in love with the classical guitar in 2023, so that I don't neglect it for so long again._
+_Written as a note-to-self on how I had fallen in love with the classical guitar, so that I don't neglect it for so long again._
 
 Just me, my guitar, and my cat, Raindrop. That was all I wanted to need when I fantasized about a _devotion_ to studying the classical guitar on this day, a couple years ago. Prior, I had been thinking about the piano, but it wasn't very practical because I would have to travel toward one to practice. I also wouldn't have the space for one in my home. A quiz on the internet told me I should play the oboe, but I'd prefer to use my hands than my mouth and breath.
 
