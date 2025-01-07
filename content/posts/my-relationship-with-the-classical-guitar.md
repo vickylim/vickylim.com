@@ -43,7 +43,7 @@ I really lost touch with music, starting maybe 2014, which I blame on Spotify. I
 
 There was later a period when I kept thinking about _TÁR_, moreso the worlds of music than the trajectory of Lydia Tár's character. How she was carefully reviewing the sheets of music at the end and still taking her work seriously, even if it was no longer seen as prestigious. There was something in that sense of commitment that I wanted.
 
-I wanted to reconnect with music again, and this time, from the perspective of a musician. It would not be too late to start, and restart. I would learn how to listen at the same time as learning a semi-classical instrument from the very beginning. I would acquaint myself with standard notation, like a whole new language. There would be painstaking technical challenges and unfamiliar vocabulary. I might finally be able to identify sounds and which instruments are making them, or, better describe how a piece makes me feel.
+In 2023, I wanted to reconnect with music again, and this time, from the perspective of a musician. It would not be too late to start. I would learn how to listen at the same time as learning a semi-classical instrument from the very beginning. I would acquaint myself with standard notation, like a whole new language. There would be painstaking technical challenges and unfamiliar vocabulary. I might finally be able to identify sounds and which instruments are making them, or, better describe how a piece makes me feel. It would not be too late to restart. I am back, ready to love the guitar in a different way.
 
 ![Wide image of me with guitar, Raindrop (my cat) in mid-jump up to the windowsill](https://i.postimg.cc/rpjwfxpC/b08fe2be-7f86-4657-bc48-b57795efb50b.jpg)
 
