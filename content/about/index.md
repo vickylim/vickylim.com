@@ -16,11 +16,12 @@ I spent my teen years writing on LiveJournal and my twenties writing [_Abstract 
 You can write to me at vicky.txt@gmail.com 💌
 
 ## Topics
-- [a-day-in-the-life](https://vickylim.com/tags/a-day-in-the-life/) : me just writing about my day
--  [at-home](https://vickylim.com/tags/at-home) : me trying to be more handy AND a homebody
--  [intentions](https://vickylim.com/tags/intentions/) : I have so many goals, checklists, notes-to-self
--  [languages](https://vickylim.com/tags/languages/) : me trying to learn languages, mainly français and 中文
--  [training-log](https://vickylim.com/tags/training-log/) : me reflecting on my strength training progress at the end of each quarter
+- [a-day-in-the-life](https://vickylim.com/tags/a-day-in-the-life/) : regular day, regular thoughts, sometimes following the full moon schedule to determine when I should post
+- [at-home](https://vickylim.com/tags/at-home) : reflecting on my efforts to honor the home
+- [intentions](https://vickylim.com/tags/intentions/) : I have so many goals, checklists, notes-to-self that sharing them here, even if no one sees it, helps me feel a little more accountable
+- [languages](https://vickylim.com/tags/languages/) : recording my language learning for français and 中文
+- [music](https://vickylim.com/tags/music/) : on learning classical guitar + maybe reviews of songs/albums/concerts
+- [training-log](https://vickylim.com/tags/training-log/) : quarterly recaps on my strength training progress
 
 ## P.S.
 

@@ -33,15 +33,15 @@ Then, this afternoon, I learned how to boulder at First Ascent in Humboldt Park 
 - ✅ Renew my library card [still need to return a buncha items]
 - ✅ Go to the gym 3x each week (eat + sleep well)
 - ✅ Memorize a poem and attend Other People's Poems [this was so warm/encouraging/cool/beautiful]
-- ⚠️ Open up the guitar case, humidify my poor guitar, tune it, and run through at least one warmup routine
-- ⚠️ Look through Sohla El-Waylly's *Start Here: Instructions for Becoming a Better Cook* and try to cook a single recipe
+- ✅ Open up the guitar case, humidify my poor guitar, tune it, and run through at least one warmup routine
+- ⛔️ Look through Sohla El-Waylly's *Start Here: Instructions for Becoming a Better Cook* and try to cook a single recipe
 - ✅ Find a time to catch up with Patricia [➕ Korean bbq with Lemis, ➕ going to my 1st boxing class]
 - ✅ Watch a tbd movie [*Challengers*] with Alex at my place
 - ✅ See *School of the Holy Beast* (1974) at Facets [with McKenney]
 - ✅ Attend [Silent Book Club in Lakeview](https://www.meetup.com/chicago-silent-book-club-lakeview/), at which I will try to continue reading ch. 1-8 of *Wuthering Heights* so that I can participate in the next discussion [great, will go back]
 - ✅ Meet up with late 30s/early 40s women from Chicago Girls Who Walk for board game night at Athena's [this was lovely!]
 - ⛔️ Show up to the Snail Mail Sundays meetup so that I can finally reply to letters and write cards that are way overdue to my friends, maybe send a few holiday cards [this is postponed to Jan]
-- ⚠️ Don't forget to do chores and tidy up the home, esp. installing a new toilet paper holder! C'mon
+- ⚠️ Don't forget to do chores and tidy up the home, esp. ✅ installing a new toilet paper holder! C'mon [but it was an incredibly tacky job, half-done, terrible hole-y wall]
 - ⛔️ Host Melody for a night on Christmas Eve
 - ✅ Spend a day with my parents and brother to "celebrate" Christmas
 - ✅ Catch a couple films back-to-back at the Siskel (*L'été dernier* [didn't make this one] + *La Bête* [still thinking about this one])
@@ -49,4 +49,4 @@ Then, this afternoon, I learned how to boulder at First Ascent in Humboldt Park 
 - ⛔️ Write a reflection of 2024 and post it on my blog here
 - ✅ Celebrate New Year's Eve with friends (Anna + Jim and Brianna + myself at home, by midnight)
 - ✅ Outline plans for 2025
-- ➕ Join Audrey and others at the bonfire at Somme Woods
+- ➕ Join Audrey and others at the New Year's Day bonfire at Somme Woods
