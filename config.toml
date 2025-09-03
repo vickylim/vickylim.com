@@ -56,13 +56,13 @@ weight = 4
   colortheme = "classic" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
-  showAllPostsArchive = true # default
+  showAllPostsArchive = "true" # default
 
   # Home page settings
   description = "A personal blog to record what I am learning and what I have learned."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
-  postsOnHomePage = 15 # this option will be ignored if showAllPostsOnHomePage is set to true
+  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
   showProjectsList = false # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/vickylim" # title link for projects list
