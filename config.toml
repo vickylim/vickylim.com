@@ -98,7 +98,7 @@ enabled = false
 enabled = false
     name = "delicious"
     link = "https://letterboxd.com/subtexts/"
-  [params.social]]
+  [[params.social]]
 enabled = false
     name = "lastfm-square"
     link = "https://www.last.fm/user/pianomaps"
