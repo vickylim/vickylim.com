@@ -93,16 +93,16 @@ fontAwesomePath = "/lib/fontawesome/css/all.min.css"
   [[params.social]]
 enabled = false
     name = "goodreads"
-    link = "https://www.goodreads.com/vickylim"
+    link = ""
   [[params.social]]
 enabled = false
     name = "delicious"
-    link = "https://letterboxd.com/subtexts/"
+    link = ""
   [[params.social]]
 enabled = false
     name = "lastfm-square"
-    link = "https://www.last.fm/user/pianomaps"
+    link = ""
   [[params.social]]
 enabled = false
     name = "youtube"
-    link = "https://youtube.com/@vicky-sagittarius-square"
+    link = ""
